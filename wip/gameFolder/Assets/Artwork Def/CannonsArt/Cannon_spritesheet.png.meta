@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: ac6fc6af63f1cb3448e9a036ef219b02
+timeCreated: 1465912623
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cannon_spritesheet_0
+    21300002: Cannon_spritesheet_1
+    21300004: Cannon_spritesheet_2
+    21300006: Cannon_spritesheet_3
+    21300008: Cannon_spritesheet_4
+    21300010: Cannon_spritesheet_5
+    21300012: Cannon_spritesheet_6
+    21300014: Cannon_spritesheet_7
+    21300016: Cannon_spritesheet_8
+    21300018: Cannon_spritesheet_9
+    21300020: Cannon_spritesheet_10
+    21300022: Cannon_spritesheet_11
+    21300024: Cannon_spritesheet_12
+    21300026: Cannon_spritesheet_13
+    21300028: Cannon_spritesheet_14
+    21300030: Cannon_spritesheet_15
+    21300032: Cannon_spritesheet_16
+    21300034: Cannon_spritesheet_17
+    21300036: Cannon_spritesheet_18
+    21300038: Cannon_spritesheet_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cannon_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1842
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 58}
+        - {x: 67, y: 64}
+        - {x: 53, y: 68}
+        - {x: 52, y: 148}
+        - {x: 59, y: 154}
+        - {x: 62, y: 161}
+        - {x: 62, y: 246}
+        - {x: 60, y: 251}
+        - {x: 54, y: 256}
+        - {x: -54, y: 256}
+        - {x: -60, y: 251}
+        - {x: -62, y: 246}
+        - {x: -62, y: 161}
+        - {x: -59, y: 154}
+        - {x: -52, y: 148}
+        - {x: -52, y: 66}
+        - {x: -59, y: 66}
+        - {x: -66, y: 63}
+        - {x: -70, y: 58}
+        - {x: -70, y: -250}
+        - {x: -65, y: -255}
+        - {x: -62, y: -256}
+        - {x: 62, y: -256}
+        - {x: 65, y: -255}
+        - {x: 70, y: -250}
+    - name: Cannon_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1842
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 68}
+        - {x: 52, y: 131}
+        - {x: 57, y: 134}
+        - {x: 63, y: 142}
+        - {x: 62, y: 232}
+        - {x: 58, y: 237}
+        - {x: 51, y: 241}
+        - {x: -49, y: 241}
+        - {x: -55, y: 239}
+        - {x: -61, y: 232}
+        - {x: -62, y: 228}
+        - {x: -62, y: 143}
+        - {x: -60, y: 138}
+        - {x: -52, y: 131}
+        - {x: -59, y: 66}
+        - {x: -66, y: 63}
+        - {x: -70, y: 58}
+        - {x: -70, y: -250}
+        - {x: -65, y: -255}
+        - {x: -62, y: -256}
+        - {x: 63, y: -256}
+        - {x: 70, y: -251}
+        - {x: 70, y: 58}
+        - {x: 67, y: 64}
+    - name: Cannon_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1842
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 58}
+        - {x: 67, y: 64}
+        - {x: 53, y: 68}
+        - {x: 52, y: 112}
+        - {x: 59, y: 118}
+        - {x: 62, y: 125}
+        - {x: 63, y: 210}
+        - {x: 54, y: 222}
+        - {x: 49, y: 223}
+        - {x: -51, y: 223}
+        - {x: -61, y: 215}
+        - {x: -62, y: 210}
+        - {x: -62, y: 121}
+        - {x: -53, y: 112}
+        - {x: -53, y: 67}
+        - {x: -67, y: 65}
+        - {x: -70, y: 59}
+        - {x: -70, y: -250}
+        - {x: -65, y: -255}
+        - {x: -62, y: -256}
+        - {x: 62, y: -256}
+        - {x: 65, y: -255}
+        - {x: 70, y: -250}
+    - name: Cannon_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1842
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 68}
+        - {x: 59, y: 94}
+        - {x: 62, y: 101}
+        - {x: 62, y: 185}
+        - {x: 61, y: 191}
+        - {x: 51, y: 199}
+        - {x: -49, y: 199}
+        - {x: -54, y: 198}
+        - {x: -63, y: 186}
+        - {x: -62, y: 101}
+        - {x: -59, y: 94}
+        - {x: -52, y: 88}
+        - {x: -59, y: 66}
+        - {x: -66, y: 63}
+        - {x: -70, y: 58}
+        - {x: -70, y: -250}
+        - {x: -65, y: -255}
+        - {x: -62, y: -256}
+        - {x: 63, y: -256}
+        - {x: 70, y: -251}
+        - {x: 70, y: 58}
+        - {x: 67, y: 64}
+    - name: Cannon_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1842
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 58}
+        - {x: 67, y: 64}
+        - {x: 53, y: 68}
+        - {x: 60, y: 87}
+        - {x: 63, y: 92}
+        - {x: 62, y: 181}
+        - {x: 58, y: 186}
+        - {x: 51, y: 190}
+        - {x: -49, y: 190}
+        - {x: -55, y: 188}
+        - {x: -62, y: 181}
+        - {x: -62, y: 92}
+        - {x: -60, y: 87}
+        - {x: -52, y: 80}
+        - {x: -66, y: 63}
+        - {x: -70, y: 58}
+        - {x: -70, y: -250}
+        - {x: -65, y: -255}
+        - {x: -62, y: -256}
+        - {x: 62, y: -256}
+        - {x: 65, y: -255}
+        - {x: 70, y: -250}
+    - name: Cannon_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1228
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 58.333313}
+        - {x: 67, y: 64.33331}
+        - {x: 56, y: 70.33331}
+        - {x: 63, y: 80.33331}
+        - {x: 62, y: 165.33331}
+        - {x: 60, y: 170.33331}
+        - {x: 54, y: 177.33331}
+        - {x: 51, y: 179.33331}
+        - {x: -55, y: 179.33331}
+        - {x: -63, y: 166.33331}
+        - {x: -62, y: 81.33331}
+        - {x: -60, y: 75.33331}
+        - {x: -54, y: 67.33331}
+        - {x: -67, y: 65.33331}
+        - {x: -70, y: 59.333313}
+        - {x: -70, y: -249.66669}
+        - {x: -65, y: -254.66669}
+        - {x: -62, y: -255.66669}
+        - {x: 62, y: -255.66669}
+        - {x: 65, y: -254.66669}
+        - {x: 70, y: -249.66669}
+    - name: Cannon_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1228
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 57.333313}
+        - {x: 66, y: 63.333313}
+        - {x: 59, y: 66.33331}
+        - {x: 62, y: 76.33331}
+        - {x: 62, y: 160.33331}
+        - {x: 60, y: 165.33331}
+        - {x: 54, y: 172.33331}
+        - {x: 49, y: 174.33331}
+        - {x: -49, y: 174.33331}
+        - {x: -54, y: 173.33331}
+        - {x: -63, y: 161.33331}
+        - {x: -62, y: 76.33331}
+        - {x: -59, y: 66.33331}
+        - {x: -66, y: 63.333313}
+        - {x: -70, y: 58.333313}
+        - {x: -70, y: -249.66669}
+        - {x: -65, y: -254.66669}
+        - {x: -62, y: -255.66669}
+        - {x: 62, y: -255.66669}
+        - {x: 65, y: -254.66669}
+        - {x: 70, y: -249.66669}
+    - name: Cannon_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1228
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 57.333313}
+        - {x: 66, y: 63.333313}
+        - {x: 59, y: 66.33331}
+        - {x: 62, y: 76.33331}
+        - {x: 62, y: 160.33331}
+        - {x: 60, y: 165.33331}
+        - {x: 54, y: 172.33331}
+        - {x: 49, y: 174.33331}
+        - {x: -49, y: 174.33331}
+        - {x: -54, y: 173.33331}
+        - {x: -63, y: 161.33331}
+        - {x: -62, y: 76.33331}
+        - {x: -59, y: 66.33331}
+        - {x: -66, y: 63.333313}
+        - {x: -70, y: 58.333313}
+        - {x: -70, y: -249.66669}
+        - {x: -65, y: -254.66669}
+        - {x: -62, y: -255.66669}
+        - {x: 62, y: -255.66669}
+        - {x: 65, y: -254.66669}
+        - {x: 70, y: -249.66669}
+    - name: Cannon_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1228
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 57.333313}
+        - {x: 66, y: 63.333313}
+        - {x: 59, y: 66.33331}
+        - {x: 62, y: 76.33331}
+        - {x: 62, y: 160.33331}
+        - {x: 60, y: 165.33331}
+        - {x: 54, y: 172.33331}
+        - {x: 49, y: 174.33331}
+        - {x: -49, y: 174.33331}
+        - {x: -54, y: 173.33331}
+        - {x: -63, y: 161.33331}
+        - {x: -62, y: 76.33331}
+        - {x: -59, y: 66.33331}
+        - {x: -66, y: 63.333313}
+        - {x: -70, y: 58.333313}
+        - {x: -70, y: -249.66669}
+        - {x: -65, y: -254.66669}
+        - {x: -62, y: -255.66669}
+        - {x: 62, y: -255.66669}
+        - {x: 65, y: -254.66669}
+        - {x: 70, y: -249.66669}
+    - name: Cannon_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1228
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 58.333313}
+        - {x: 67, y: 64.33331}
+        - {x: 56, y: 70.33331}
+        - {x: 63, y: 80.33331}
+        - {x: 62, y: 165.33331}
+        - {x: 60, y: 170.33331}
+        - {x: 54, y: 177.33331}
+        - {x: 51, y: 179.33331}
+        - {x: -55, y: 179.33331}
+        - {x: -63, y: 166.33331}
+        - {x: -62, y: 81.33331}
+        - {x: -60, y: 75.33331}
+        - {x: -54, y: 67.33331}
+        - {x: -67, y: 65.33331}
+        - {x: -70, y: 59.333313}
+        - {x: -70, y: -249.66669}
+        - {x: -65, y: -254.66669}
+        - {x: -62, y: -255.66669}
+        - {x: 62, y: -255.66669}
+        - {x: 65, y: -254.66669}
+        - {x: 70, y: -249.66669}
+    - name: Cannon_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 58.166656}
+        - {x: 67, y: 64.16666}
+        - {x: 53, y: 68.16666}
+        - {x: 60, y: 87.16666}
+        - {x: 63, y: 92.16666}
+        - {x: 62, y: 181.16666}
+        - {x: 58, y: 186.16666}
+        - {x: 51, y: 190.16666}
+        - {x: -49, y: 190.16666}
+        - {x: -55, y: 188.16666}
+        - {x: -62, y: 181.16666}
+        - {x: -62, y: 92.16666}
+        - {x: -60, y: 87.16666}
+        - {x: -52, y: 80.16666}
+        - {x: -66, y: 63.166656}
+        - {x: -70, y: 58.166656}
+        - {x: -70, y: -249.83334}
+        - {x: -65, y: -254.83334}
+        - {x: -62, y: -255.83334}
+        - {x: 62, y: -255.83334}
+        - {x: 65, y: -254.83334}
+        - {x: 70, y: -249.83334}
+    - name: Cannon_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 614
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 68.16666}
+        - {x: 59, y: 94.16666}
+        - {x: 62, y: 101.16666}
+        - {x: 62, y: 185.16666}
+        - {x: 61, y: 191.16666}
+        - {x: 51, y: 199.16666}
+        - {x: -49, y: 199.16666}
+        - {x: -54, y: 198.16666}
+        - {x: -63, y: 186.16666}
+        - {x: -62, y: 101.16666}
+        - {x: -59, y: 94.16666}
+        - {x: -52, y: 88.16666}
+        - {x: -59, y: 66.16666}
+        - {x: -66, y: 63.166656}
+        - {x: -70, y: 58.166656}
+        - {x: -70, y: -249.83334}
+        - {x: -65, y: -254.83334}
+        - {x: -62, y: -255.83334}
+        - {x: 63, y: -255.83334}
+        - {x: 70, y: -250.83334}
+        - {x: 70, y: 58.166656}
+        - {x: 67, y: 64.16666}
+    - name: Cannon_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 614
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 68.16666}
+        - {x: 54, y: 94.16666}
+        - {x: 64, y: 106.16666}
+        - {x: 62, y: 196.16666}
+        - {x: 58, y: 201.16666}
+        - {x: 51, y: 205.16666}
+        - {x: -49, y: 205.16666}
+        - {x: -55, y: 203.16666}
+        - {x: -62, y: 196.16666}
+        - {x: -62, y: 107.16666}
+        - {x: -60, y: 102.16666}
+        - {x: -52, y: 95.16666}
+        - {x: -59, y: 66.16666}
+        - {x: -66, y: 63.166656}
+        - {x: -70, y: 58.166656}
+        - {x: -70, y: -249.83334}
+        - {x: -65, y: -254.83334}
+        - {x: -62, y: -255.83334}
+        - {x: 63, y: -255.83334}
+        - {x: 70, y: -250.83334}
+        - {x: 70, y: 58.166656}
+        - {x: 67, y: 64.16666}
+    - name: Cannon_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 614
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 68.16666}
+        - {x: 52, y: 103.16666}
+        - {x: 59, y: 109.16666}
+        - {x: 62, y: 116.16666}
+        - {x: 63, y: 201.16666}
+        - {x: 54, y: 213.16666}
+        - {x: 49, y: 214.16666}
+        - {x: -49, y: 214.16666}
+        - {x: -54, y: 213.16666}
+        - {x: -63, y: 201.16666}
+        - {x: -62, y: 116.16666}
+        - {x: -59, y: 109.16666}
+        - {x: -52, y: 103.16666}
+        - {x: -53, y: 67.16666}
+        - {x: -67, y: 65.16666}
+        - {x: -70, y: 59.166656}
+        - {x: -70, y: -249.83334}
+        - {x: -65, y: -254.83334}
+        - {x: -62, y: -255.83334}
+        - {x: 63, y: -255.83334}
+        - {x: 70, y: -250.83334}
+        - {x: 70, y: 58.166656}
+        - {x: 67, y: 64.16666}
+    - name: Cannon_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 614
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 58.166656}
+        - {x: 67, y: 64.16666}
+        - {x: 53, y: 68.16666}
+        - {x: 52, y: 112.16666}
+        - {x: 59, y: 118.16666}
+        - {x: 62, y: 125.16666}
+        - {x: 63, y: 210.16666}
+        - {x: 54, y: 222.16666}
+        - {x: 49, y: 223.16666}
+        - {x: -51, y: 223.16666}
+        - {x: -61, y: 215.16666}
+        - {x: -62, y: 210.16666}
+        - {x: -62, y: 121.16666}
+        - {x: -53, y: 112.16666}
+        - {x: -53, y: 67.16666}
+        - {x: -67, y: 65.16666}
+        - {x: -70, y: 59.166656}
+        - {x: -70, y: -249.83334}
+        - {x: -65, y: -254.83334}
+        - {x: -62, y: -255.83334}
+        - {x: 62, y: -255.83334}
+        - {x: 65, y: -254.83334}
+        - {x: 70, y: -249.83334}
+    - name: Cannon_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 67}
+        - {x: 52, y: 120}
+        - {x: 59, y: 126}
+        - {x: 62, y: 133}
+        - {x: 63, y: 218}
+        - {x: 56, y: 228}
+        - {x: 49, y: 231}
+        - {x: -49, y: 231}
+        - {x: -54, y: 229}
+        - {x: -60, y: 223}
+        - {x: -62, y: 218}
+        - {x: -62, y: 133}
+        - {x: -59, y: 126}
+        - {x: -52, y: 120}
+        - {x: -52, y: 65}
+        - {x: -59, y: 65}
+        - {x: -66, y: 62}
+        - {x: -70, y: 57}
+        - {x: -70, y: -251}
+        - {x: -64, y: -256}
+        - {x: 64, y: -256}
+        - {x: 70, y: -251}
+        - {x: 70, y: 57}
+        - {x: 67, y: 63}
+    - name: Cannon_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 67}
+        - {x: 52, y: 130}
+        - {x: 57, y: 133}
+        - {x: 62, y: 142}
+        - {x: 62, y: 227}
+        - {x: 61, y: 230}
+        - {x: 58, y: 236}
+        - {x: 51, y: 240}
+        - {x: -49, y: 240}
+        - {x: -55, y: 238}
+        - {x: -61, y: 231}
+        - {x: -62, y: 227}
+        - {x: -62, y: 142}
+        - {x: -60, y: 137}
+        - {x: -52, y: 130}
+        - {x: -59, y: 65}
+        - {x: -66, y: 62}
+        - {x: -70, y: 57}
+        - {x: -70, y: -251}
+        - {x: -64, y: -256}
+        - {x: 64, y: -256}
+        - {x: 70, y: -251}
+        - {x: 70, y: 57}
+        - {x: 67, y: 63}
+    - name: Cannon_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 57}
+        - {x: 67, y: 63}
+        - {x: 53, y: 67}
+        - {x: 52, y: 139}
+        - {x: 54, y: 138}
+        - {x: 63, y: 150}
+        - {x: 62, y: 235}
+        - {x: 60, y: 240}
+        - {x: 54, y: 247}
+        - {x: 51, y: 248}
+        - {x: -55, y: 248}
+        - {x: -63, y: 236}
+        - {x: -62, y: 151}
+        - {x: -60, y: 145}
+        - {x: -52, y: 138}
+        - {x: -59, y: 65}
+        - {x: -66, y: 62}
+        - {x: -70, y: 57}
+        - {x: -70, y: -251}
+        - {x: -65, y: -256}
+        - {x: 65, y: -256}
+        - {x: 70, y: -251}
+    - name: Cannon_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 57}
+        - {x: 67, y: 63}
+        - {x: 53, y: 67}
+        - {x: 52, y: 147}
+        - {x: 59, y: 153}
+        - {x: 62, y: 160}
+        - {x: 62, y: 245}
+        - {x: 60, y: 250}
+        - {x: 53, y: 256}
+        - {x: -53, y: 256}
+        - {x: -60, y: 250}
+        - {x: -62, y: 245}
+        - {x: -62, y: 160}
+        - {x: -59, y: 153}
+        - {x: -52, y: 147}
+        - {x: -52, y: 65}
+        - {x: -59, y: 65}
+        - {x: -66, y: 62}
+        - {x: -70, y: 57}
+        - {x: -70, y: -251}
+        - {x: -65, y: -256}
+        - {x: 65, y: -256}
+        - {x: 70, y: -251}
+    - name: Cannon_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
